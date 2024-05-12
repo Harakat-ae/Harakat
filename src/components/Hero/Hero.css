@@ -1,0 +1,12 @@
+.h-hero{
+    height: calc(100vh - 96px);
+}
+
+.stoke{
+    -webkit-text-stroke: 1px white;
+    color: transparent;
+}
+
+.title-opactiy{
+    opacity: 0 m !important;
+}

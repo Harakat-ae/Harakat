@@ -1,0 +1,6 @@
+.effect{
+    width: 3.5rem;
+    height: 0.2rem;
+    background: radial-gradient(#e9d8d1,#e6713d, #db373a);
+    mix-blend-mode: hard-light;
+}

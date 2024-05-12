@@ -1,0 +1,7 @@
+.teams-slider .slick-slide > div{
+    margin: 3.5rem 0.8rem 0;
+}
+
+.gradient{
+    background: linear-gradient(200deg, #e6713d,#db373a);
+}

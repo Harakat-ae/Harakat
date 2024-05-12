@@ -1,0 +1,27 @@
+.btn-donate {
+    /* --clr-font-main: hsla(0 0% 20% / 100);
+    --btn-bg-1: hsl(3, 97%, 63%);
+    --btn-bg-2: hsl(3, 63%, 49%);
+    --btn-bg-color: hsla(360 100% 100% / 1);
+    --radii: 0.5em; */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 0.5em 0.7em;
+    min-height: 44px;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: 0.8s;
+    background-image: linear-gradient(325deg, hsl(3, 63%, 49%) 0%, hsl(3, 97%, 63%) 55%, hsl(3, 63%, 49%) 90%);
+    background-size: 280% auto;
+    border: none;
+    border-radius: 0.5em;
+    color: hsla(360 100% 100% / 1);
+    box-shadow: 0px 0px 20px rgb(204, 54, 46 , 0.5), 0px 5px 5px -1px rgb(158, 37, 30, 0.70), inset 4px 4px 8px rgba(148, 53, 48, 0.5), inset -4px -4px 8px rgba(255, 50, 39, 0.6);
+  }
+  
+  .btn-donate:hover {
+    background-position: right top;
+  }
+  

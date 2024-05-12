@@ -1,0 +1,17 @@
+.gradient{
+    background: linear-gradient(200deg, #e6713d,#db373a);
+}
+
+/* .card-team{
+    transition: all 350ms ease-in;
+    perspective: 2500px;
+}
+
+/* .card-team:hover{
+    box-shadow: 0 2rem .8rem #00000094;
+    transform: rotateX(20deg);
+} */
+/* 
+.card-team:hover .image-cover{
+    transform: rotateX(0);
+}  */

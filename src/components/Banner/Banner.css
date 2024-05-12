@@ -1,0 +1,48 @@
+/* .banner1{
+    animation: animate 40s linear infinite;
+}
+
+.banner2{
+    animation: animate2 40s linear infinite;
+    animation-delay: -20s;
+} */
+
+.text-span{
+    -webkit-text-stroke: 2px #232323;
+    color: transparent;
+}
+
+@keyframes animate {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes animate2 {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-200%);
+    }
+}
+
+.banner-1{
+    transform: rotate(25deg) translateY(260px) translateX(80px) ;
+}
+
+.banner-2{
+    transform: rotate(-25deg) translateY(200px) translateX(-220px);
+}
+
+.banner-3{
+    transform: rotate(-20deg) translateX(0px) translateY(-100px) ;
+}
+
+.banner-4{
+    transform: rotate(-30deg) translateY(230px) translateX(-150px) ;
+}
+

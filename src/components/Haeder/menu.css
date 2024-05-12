@@ -1,0 +1,8 @@
+
+.harkat{
+    user-select: none;
+    -webkit-text-stroke: 3px #ce372e;
+    text-stroke: 3px #ce372e;
+    color: transparent;
+    /* mix-blend-mode: multiply; */
+  }
